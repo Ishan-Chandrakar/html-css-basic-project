@@ -1,0 +1,101 @@
+.top-container{
+    background-color: #EAF6F6;
+}
+body{
+    margin: 0px;
+    text-align: center;
+}
+.name{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 90px;
+    color: #66BFBF;  
+    margin: 20px auto 0px auto;  
+}
+.about{
+    font-size: 40px;
+    color: #66BFBF;
+    margin: 20px auto 30px auto;
+}
+
+.top-cloud{
+    position: relative;
+    left: 25%;
+    top: 50px;
+    margin-bottom: 30px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+h2{
+    color: #66BFBF;
+    font-size: 40px;
+}
+p.intro{
+    width: 30%;
+    margin: auto;
+    font-size: 20px;
+    font-family: monospace;
+    line-height: 1.3;
+    
+}
+hr{
+    border-color: #40514E;
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 5%;
+}
+.skills{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+    font-size: 25px;
+    margin: 0px;
+}
+.design-development{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 1.3;
+    margin-bottom: 60px;
+}
+.chillies{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.design-para{
+
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.flower{
+    width: 25%;
+    float: right;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px ;
+    
+}
+a{
+    text-decoration: none;
+    margin: 0px 40px 40px 0px;
+    font-family: monospace;
+    font-size: 20px;
+}
+a:hover{
+    color: beige;
+}
+p.copyright{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: aliceblue;
+}
